@@ -9,18 +9,34 @@ Setup:
     In Matlab, go to */Hullett_2025_code
 
     Download the following data files to  */Hullett_2025_code from:
-    https://ucsf.app.box.com/folder/319334461702?s=a4o2h8yrtn5o3vgfhmjd0bz2xf7un3oi
+    *****
 
     Datat file names:
-    cvs_avg35_inMNI152_lh_pial.mat
-    cvs_avg35_inMNI152_rh_pial.mat
-    d_a1_1.mat
-    d_a1_2.mat
-    d_a2_1.mat
-    d_a2_2.mat
-    d_a2_3.mat
-    d_a2_4.mat
-    d_a3_1.mat
+    
+    'Fig1_b_c_data.mat'
+    'Fig1_d_left_hemisphere_data.mat'
+    'Fig1_d_left_hemisphere_responses_data.mat'
+    'Fig1_d_right_hemisphere_data.mat'
+    'Fig1_d_right_hemisphere_responses_data.mat'
+    'Fig1_e_data.mat'
+    'Fig1_f_data.mat'
+    'Fig1_g_left_data.mat'
+    'Fig1_g_right_data.mat'
+    'Fig2_a_left_hemisphere_data.mat'
+    'Fig2_a_right_hemisphere_data.mat'
+    'Fig2_b_data.mat'
+    'Fig2_c_data.mat'
+    'Fig2_d_e_left_hemisphere_data.mat'
+    'Fig2_d_e_right_hemisphere_data.mat'
+    'Fig3_a_data.mat'
+    'Fig3_d_e_f_data.mat'
+    'Fig4_h_data.mat'
+    'Fig5_a_data.tt.mat'
+    'Fig5_b_left_data.mat'
+    'Fig5_b_right_data.mat'
+    'Fig5_c_left_data.mat'
+    'Fig5_c_right_data.mat'
+
  
      
 
