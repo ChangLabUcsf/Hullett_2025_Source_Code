@@ -5,13 +5,11 @@ Source code for: Parallel encoding of speech in human frontal and temporal lobes
 
 Setup: 
     
-    extract Hullett_2025_code.zip to some directory.
-    In Matlab, go to */Hullett_2025_code
+    Extract Hullett_2025_Source_Code.zip to some directory.
+    Download and extract source_data.zip to  */Hullett_2025_code.
+    source_data.zip is available at from: ######*****######
 
-    Download the following data files to  */Hullett_2025_code from:
-    *****
-
-    Datat file names:
+    Datat file names within */source_data are:
     
     'Fig1_b_c_data.mat'
     'Fig1_d_left_hemisphere_data.mat'
@@ -38,10 +36,9 @@ Setup:
     'Fig5_c_right_data.mat'
 
  
-     
-
-Launch: Type 'run' in the matlab command line.
-
+Launch: 
+    In Matlab, go to */Hullett_2025_Source_Code
+    Type 'run' in the matlab command line to plot figures.
 
 *This code has been tested on Matlab 2019a. 
 
