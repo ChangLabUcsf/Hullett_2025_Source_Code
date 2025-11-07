@@ -1,4 +1,4 @@
-# Hullett_2025_Code
+# Hullett_2025_Source_Code
 Source code for: Parallel encoding of speech in human frontal and temporal lobes
 
 ************** Hullett_2025_code ***************
