@@ -7,7 +7,7 @@ Setup:
     
     Extract Hullett_2025_Source_Code.zip to some directory.
     Download and extract source_data.zip to  */Hullett_2025_code.
-    source_data.zip is available at from: ######*****######
+    source_data.zip is available at from: http://datadryad.org/share/LINK_NOT_FOR_PUBLICATION/NdvQqebjeFc3a_5ZnqA5qk5De_6emMSvxh3ur_oS3FY
 
     Datat file names within */source_data are:
     
@@ -40,5 +40,5 @@ Launch:
     In Matlab, go to */Hullett_2025_Source_Code
     Type 'run' in the matlab command line to plot figures.
 
-*This code has been tested on Matlab 2019a. 
+*This code has been tested on Matlab 2019a on an independent computer not used to generate the source code (Apple M1 Max with 64 GB of ram). 
 
